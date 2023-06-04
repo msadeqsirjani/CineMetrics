@@ -1,6 +1,6 @@
 ![Netflix Logo](https://www.freepnglogos.com/uploads/netflix-tv-logo-png-9.png)
-[![GitHub stars](https://img.shields.io/github/stars/msadeqsirjani/netflix-dataset-analysis?style=social)](https://github.com/msadeqsirjani/netflix-dataset-analysis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/msadeqsirjani/netflix-dataset-analysis?style=social)](https://github.com/msadeqsirjani/netflix-dataset-analysis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/msadeqsirjani/CineMetrics?style=social)](https://github.com/msadeqsirjani/CineMetrics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/msadeqsirjani/CineMetrics?style=social)](https://github.com/msadeqsirjani/CineMetrics/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Netflix Dataset Analysis
